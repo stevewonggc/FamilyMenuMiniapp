@@ -1,0 +1,14 @@
+<!--pages/newMenu/newMenu.wxml-->
+<text>pages/newMenu/newMenu.wxml</text>
+
+<view>
+  <view class="imagePlaceHolder"></view>
+  <input placeholder="配料" />
+  <!-- <checkbox-group bindchange="checkboxChange">
+    <label class="checkbox">
+      <checkbox value="" checked='true' />东东做
+    </label>
+  </checkbox-group> -->
+
+
+</view>
